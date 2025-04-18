@@ -1,0 +1,24 @@
+CompTIA recommends a **6-step troubleshooting process:**
+
+- Identify the Problem
+  - Gather information (user input, error messages, device behavior)
+  - Duplicate the problem, if possible
+  - Perform a backup before making any changes
+  - Question users (what changed recently?)
+- Establish a Theory of Probable Cause
+  - Start with the obvious (loose cable, power)
+  - Use the OSI model to segment where the issue might be (physical, data link, network layers, etc.)
+- Test the Theory
+  - Confirm the cause through testing
+  - If theory fails, go back to step 2 with a new theory
+- Establish a Plan of Action
+  - Determine fix steps
+  - Identify potential impacts
+- Implement the Solution
+  - Apply the fix carefully
+  - Monitor for immediate results
+- Verify Full System Functionality
+  - Ensure the issue is resolved
+  - Perform preventive measures (e.g., driver updates, user training)
+- Document Findings
+  - Record symptoms, solution, and preventative steps
